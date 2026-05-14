@@ -1,4 +1,4 @@
-# 
+# new Automation Script for dex front-running bot | liquidity-pool-analysis + rug-pull-detection is the best dex front-running bot, featuring liquidity-pool-analysis and
 
 
 
